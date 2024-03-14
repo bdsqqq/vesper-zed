@@ -3,5 +3,8 @@
   "description": "Peppermint and orange flavored dark theme.",
   "version": "0.0.1",
   "authors": ["bdsqqq <igorbedesqui@gmail.com>"],
-  "repository": "https://github.com/bdsqqq/vesper-zed"
+  "repository": "https://github.com/bdsqqq/vesper-zed",
+  "themes": {
+    "Vesper": "themes/vesper-dark.json"
+  }
 }
