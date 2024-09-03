@@ -1,0 +1,7 @@
+id = "vesper"
+name = "Vesper"
+version = "0.0.2"
+schema_version = 1
+authors = ["bdsqqq <igorbedesqui@gmail.com>"]
+description = "Peppermint and orange flavored dark theme."
+repository = "https://github.com/bdsqqq/vesper-zed"
