@@ -153,6 +153,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "boolean": {
+            "color": "#FFC799",
+            "font_style": null,
+            "font_weight": null
+          },
           "comment": {
             "color": "#8b8b8b94",
             "font_style": null,
@@ -448,6 +453,11 @@
         "syntax": {
           "attribute": {
             "color": "#A0A0A0",
+            "font_style": null,
+            "font_weight": null
+          },
+          "boolean": {
+            "color": "#FFC799",
             "font_style": null,
             "font_weight": null
           },
